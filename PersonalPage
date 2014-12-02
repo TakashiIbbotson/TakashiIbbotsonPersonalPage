@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Takashi Ibbotson - Personal Page</title>
+<link href='http://fonts.googleapis.com/css?family=Pacifico|Dancing+Script|Amatic+SC' rel='stylesheet' type='text/css'>
+    
+<style>
+   
+body 
+    {background-image: url("http://imgur.com/8nL3rvK.jpg");
+    background-repeat: no-repeat;
+    background-size:   cover;                     
+    background-position: center center;}
+    
+* 
+    {margin: 0;
+    padding:0;
+    font-size:100%;
+    font-family: Georgia;
+    font-weight: lighter}
+
+h1 
+    {font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    margin: 25px;
+    color: white;}
+    
+h2
+    {font-size: 40px;
+    font-family: 'Amatic SC';, cursive;
+    font-style: italic;
+    letter-spacing: 5px;
+    text-align:center;
+    margin: 10px;
+    color: white;}
+    
+hr 
+    {width: 700px;
+    margin: 5px auto;}
+    
+.avatar 
+    {width:300px;
+    display: block;
+    margin: 0px auto;
+    margin-bottom: 30px}
+    
+p 
+    {text-align: center;
+    padding: 15px;
+    line-height:1.3em;}
+    
+.paragraphone 
+    {font-size: 25px;
+    color: #742734;}
+    
+img
+    {display:block;
+    margin: 0px auto;
+    width: 400px;}
+
+.paragraphtwo 
+    {font-size: 20px;
+    color: #742734;}
+    
+div 
+    {background-color: white;   
+    max-width: 700px;
+    min-width: 300px;
+    opacity: 0.5;
+    margin: 0px auto;}
+    
+
+img 
+    {width: 100px;
+    display: block;
+    margin: 0px auto;}
+    
+.socialmedia 
+    {margin: 10px;
+    display: inline}
+    
+
+    
+</style>
+
+</head>
+
+
+
+<body>
+    
+<h1>Takashi Ibbotson</h1>
+<h2>Web Designer, Graphic Designer</h2>
+<hr>
+    
+		<img class="avatar" src="http://imgur.com/Yp4560B.png">
+             
+<div><p class="paragraphone" >I am a nineteen year old designer from <em>Ballymena, Northern Ireland</em>.</p></div>
+    
+<div class="break"><img src= "http://imgur.com/INszmx1.png"</div>
+    
+<div><p class="paragraphtwo" >I currently study Interaction Design at <em>The Belfast School of Arts</em>.  I have a passion for paper based and digital art and design, writing and photography.  My interests lie in Web Design and Graphic Design.</p></div>
+    
+<div class="socialmedia"> 
+    
+    <a href="https://www.facebook.com/rawr.Takashi"><img src="http://imgur.com/JfO61n4.png"               onmouseover="this.src='http://imgur.com/0lk76Mp.png'" onmouseout="this.src='http://imgur.com/JfO61n4.png'"/></a>
+    
+    <a href="https://www.flickr.com/photos/127561032@N03/"><img src="http://imgur.com/TeGuYbp.png" onmouseover="this.src='http://imgur.com/ooTegGL.png'" onmouseout="this.src='http://imgur.com/TeGuYbp.png'"/></a>
+    
+    <a href="https://github.com/TakashiIbbotson"><img src="http://imgur.com/Y27Nc2F.png" onmouseover="this.src='http://imgur.com/FFy63E3.png'" onmouseout="this.src='http://imgur.com/Y27Nc2F.png'"/></a>
+    
+    <a href="https://twitter.com/Kashi_Ibbotson"><img src="http://imgur.com/PrDXgqK.png" onmouseover="this.src='http://imgur.com/tZXblJ0.png'" onmouseout="this.src='http://imgur.com/PrDXgqK.png'"/></a>
+    
+</div>
+    
+<div>
+    
+    
+</div>    
+    
+</body>
+
+</html>
